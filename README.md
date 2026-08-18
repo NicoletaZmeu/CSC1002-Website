@@ -1,5 +1,7 @@
 *due to lack of experience when the website was made, to open the project users must navigate to inde/index.html
 
+*my contributions are: TEAM folder, COMTACT US folder, SIGN UP folder, and partaking in the edevelopment of the business plan and idea
+
 ## About This Project
 
 This website was created as part of a college team project based around developing an innovative business idea and building a website to represent it.
