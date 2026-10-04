@@ -1,4 +1,4 @@
-*due to lack of experience when the website was made, to open the project users must navigate to inde/index.html
+*due to lack of experience when the website was made, to open the project users must navigate to index/index.html
 
 *my contributions are: TEAM folder, COMTACT US folder, SIGN UP folder, and partaking in the edevelopment of the business plan and idea
 
